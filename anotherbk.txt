@@ -1,7 +1,5 @@
-thi is from develop
 another backend file
-
+<<<<<<< HEAD
 this is from local repository
-
-this is from remote repository
+=======this is from remote repository
 
