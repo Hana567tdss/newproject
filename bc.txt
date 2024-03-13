@@ -1,2 +1,5 @@
-git ignore
+
+git ignore copyde b
+
+ git ignore
 b another change in remote repository.

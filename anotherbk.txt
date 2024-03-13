@@ -1,10 +1,4 @@
-<<<<<<< HEAD
-another backend file
-<<<<<<< HEAD
-this is from local repository
-=======this is from remote repository
 
-=======
 
 thi is from develop
 
@@ -13,5 +7,4 @@ change frrom main
 another backend file
 
 this is from local repository
-is thi real
->>>>>>> 55f3500562a1ff594df2bc04ea62bb8a653079d1
+is thff ff
